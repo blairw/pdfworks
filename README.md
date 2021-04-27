@@ -1,5 +1,7 @@
 # pdfworks
 
+For `pdftk`, you can install the Java ported version (`brew install pdftk-java`) or manually get the latest official pdftk version from the link noted at https://stackoverflow.com/questions/60859527/how-to-solve-pdftk-bad-cpu-type-in-executable-on-mac/60889993#60889993.
+
 Sources:
 - https://askubuntu.com/questions/207447/how-to-reduce-the-size-of-a-pdf-file
 - http://milan.kupcevic.net/ghostscript-ps-pdf/
